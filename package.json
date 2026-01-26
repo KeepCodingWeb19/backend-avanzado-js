@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/KeepCodingWeb19/backend-avanzado-js/issues"
   },
-  "homepage": "https://github.com/KeepCodingWeb19/backend-avanzado-js#readme"
+  "homepage": "https://github.com/KeepCodingWeb19/backend-avanzado-js#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.1.5"
+  }
 }
